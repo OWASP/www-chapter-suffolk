@@ -12,6 +12,87 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+### [Friday, May 15, 2020 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/270412491/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP Suffolk Introduction, Welcome and News - WTC**
+  
+    Welcome and an update on OWASP Projects & Events from the OWASP
+    Suffolk Chapter Leader.
+ 
+  - **Detecting secrets in code committed to Gitlab (in real time) - Chandrapal Badshah**  \[ [Video](https://www.youtube.com/watch?v=eCDgUvXZ_YE) \]
+    
+    There are so many open source tools that can detect sensitive API keys (secrets) in git repos. But theres no single tool that can be integrated to help you achieve real time secrets detection. This talk is about the experiment on how we implemented a real time git secrets monitoring solution. 
+
+        This talk will cover the following:
+         * Problem we had
+         * Techniques to solve that
+         * Existing tools that can help us
+         * Comparison of tools
+         * Final architecture and product
+         * What we learnt from the experiment
+         * Future enhancements
+  
+  #### Speakers
+    
+Chandrapal Badshah is a Security Engineer by day who manages security of a rapidly scaling company. He manages “Hack with GitHub” – an initiative to showcase open source security tools on GitHub. He has given multiple talks including those at null community monthly meets. Even during his busy days, he spends some time reading books not limited to philosophy and exploring nature.
+
+
+### [Friday, April 24, 2020 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/270066855/)
+
+Location: virtual
+
+#### Agenda:
+  - **OWASP Suffolk Introduction, Welcome and News - WTC**
+  
+    Welcome and an update on OWASP Projects & Events from the OWASP
+    Suffolk Chapter Leader.
+ 
+  - **Living In A World of Zero Trust - Vandana Verma**  \[ [Video](https://www.youtube.com/watch?v=_0Hs7JPRjgg) \]
+    
+    As now everything is moving to cloud, all the applications are accessible from anywhere and everywhere. However, No one wants their private information to be compromised and openly available for the world. We have been taking so many precautions, however breaches continue to happen. How should we fix this?
+
+    Organisations have been talking about Zero Trust lately and this has become a buzzword. The talk will explore Zero Trust beyond the buzzword and describe what exactly is Zero Trust and why it is so important to keep organisations safe. How can we implement or deploy Zero Trust in an organisation while keeping the current and future state of an organization in mind. What should be the business model to move any organisation towards Zero Trust Architecture and what all policies need to be implemented to achieve the same.
+  #### Speakers
+    
+  Vandana has over 14 years of experience and comes from strong application security background and has been working on Cloud Security, Application security, Vulnerability assessment, secure code review, threat profiling and remediation support for web/client server applications on different technologies based on Secure Design/Development guidelines and OWASP standards/guidelines.
+
+  Vandana has been a speaker and trainer at security events including Blackhat USA 2019, BSides LV 2019, Diana Initiative, Defcon (AppSec Village), AppSec California 2019, Global Appsec EU 2018, Global Appsec USA 2018, Global AppSec Tel Aviv, BSides Delhi 2018, c0c0n 2017 and Nullcon etc. She has trained over 3000+ Women in cybersecurity.
+
+### [Friday, April 3, 2020 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/269663637/)
+
+Location: virtual
+
+#### Agenda:
+  - **OWASP Suffolk Introduction, Welcome and News - WTC**
+  
+    Welcome and an update on OWASP Projects & Events from the OWASP
+    Suffolk Chapter Leader.
+ 
+  - **Security Testing for all - David Flint**
+    
+    Security testing isn’t just for the professional penetration tester hired to check the software before go-live. Everyone in the SDLC can take part in security. In this talk David Flint discusses the benefits of building security into the SDLC and how you can acquire security testing skills for free in a fun way avoiding the need for expensive courses and qualifications. Packed with examples from his career this talk will also show how these skills should be a part of everyone’s skillset.
+  #### Speakers
+  Davd Flint is a professional contract Tester with over 20-years experience testing IT products and services. With a background in electronics, programming and technical testing, David has tested the quality and security of products and services for a wide range of clients.
+
+### [Wednesday, March 25, 2020 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/269553775/)
+
+Location: virtual
+
+#### Agenda:
+  - **OWASP Suffolk Introduction, Welcome and News - WTC**
+  
+    Welcome and an update on OWASP Projects & Events from the OWASP
+    Suffolk Chapter Leader.
+ 
+  - **how to prevent Dev from committing secrets and credentials into git repositories - Abhinav Sejpal** \[ [Video](https://www.youtube.com/watch?v=ESGZ_Di7CtM) \]
+    
+    Sensitive information such as the AWS keys, access tokens, SSH keys etc. are often erroneously leaked via the public source code repositories due to accidental git commits. This can be avoided by using pre-commit hooks like “Talisman” which checks for sensitive information in the files before commits or push activity.
+    
+
 ### [Monday, 16 December 2019 (Ipswich)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/267062676/)
 
 Location: The Briarbank Bar
