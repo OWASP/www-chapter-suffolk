@@ -5,7 +5,11 @@ title: OWASP Suffolk
 site_side: true
 tags: suffolk
 region: Europe
-currency: gbp
+currency: gb
+meetup-group: OWASP-Suffolk-Chapter
+country: United Kingdom
+postal-code: 
+
 ---
 
  
