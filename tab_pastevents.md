@@ -23,6 +23,37 @@ Location: virtual
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
  
+  - **Gamification of Threat Modelling - Grant Ongers**  \[ [Video](https://www.youtube.com/watch?v=fg0EtIYUoyQ) \]
+    
+    Helping your teams perform all important threat modelling in a way that doesn’t require a huge security team, or prevent delivery from being at the speed that the business requires. We do this as part of a normal agile delivery through backlog scrubbing, using gamification and OWASP Cornucopia.
+    
+  - **An introduction to OWASP ZAP - Simon Bennetts**  \[ [Video](https://www.youtube.com/watch?v=rtFVJm2j3vQ) \]
+  #### Speakers
+    
+- **Grant Ongers**
+
+Grant is co-founder of the bearded trio called Secure Delivery. The philosophy and purpose of the organisation is in the name: optimal delivery and security in one dynamic package.
+Grant’s versatile experience in information systems spans Dev - building management platforms for some of the world’s largest Telcos, MSPs and Financial groups for more than 10 years. Twenty-plus years in Ops, doing everything from running operational teams in global NOCs to managing mainframe and database systems. He also has over thirty years pushing the limits of (Info)Sec - mostly white-hat. He’s done time on both sides of the TPSA (security assessment) table working for and with regulated organisations ensuring compliance and matching appetite with acceptance of risk.
+Grant’s community involvement is global: Staff at BSides (London, Las Vegas, and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder, staff at BlackHat (USA and EU), and OWASP Global Board member. Twitter: @rewtd
+
+- **Simon Bennetts**
+
+Simon is the OWASP Zed Attack Proxy (ZAP) Project Leader and works for Mozilla as part of the Cloud Services Security Team.
+He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac.
+Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them
+
+ 
+### [Friday, May 15, 2020 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/270412491/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP Suffolk Introduction, Welcome and News - WTC**
+  
+    Welcome and an update on OWASP Projects & Events from the OWASP
+    Suffolk Chapter Leader.
+ 
   - **Detecting secrets in code committed to Gitlab (in real time) - Chandrapal Badshah**  \[ [Video](https://www.youtube.com/watch?v=eCDgUvXZ_YE) \]
     
     There are so many open source tools that can detect sensitive API keys (secrets) in git repos. But theres no single tool that can be integrated to help you achieve real time secrets detection. This talk is about the experiment on how we implemented a real time git secrets monitoring solution. 
