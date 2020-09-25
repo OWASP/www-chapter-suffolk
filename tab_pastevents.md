@@ -28,6 +28,8 @@ Location: virtual
     Helping your teams perform all important threat modelling in a way that doesn’t require a huge security team, or prevent delivery from being at the speed that the business requires. We do this as part of a normal agile delivery through backlog scrubbing, using gamification and OWASP Cornucopia.
     
   - **An introduction to OWASP ZAP - Simon Bennetts**  \[ [Video](https://www.youtube.com/watch?v=rtFVJm2j3vQ) \]
+  
+  
   #### Speakers
     
 - **Grant Ongers**

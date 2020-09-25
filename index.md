@@ -63,10 +63,17 @@ Location: virtual
   - **Warmly greetings by hosts**
   
   - **The Cloud Migration Playbook - Part 1: A Simple Primer To Complexity" - Jason Sewell**
+  
+    In this talk, we will go over an introductory overview on the common areas of AWS an organization should start to focus on as they prepare to migrate to the cloud, including both offensive techniques and defensive mitigation.
+  
   - **Short break / networking**
+     
+  
   - **What you need to know, but you are afraid to ask - Pentester panel**
   
-####Panelists:
+  
+  
+#### Panelists:
 
 - **Jason Sewell**
 
