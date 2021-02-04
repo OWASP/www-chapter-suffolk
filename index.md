@@ -23,7 +23,7 @@ Please follow as on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
  
 
  
-## Meeting Sponsors
+## Meeting Supporters
 
 The following is the list of organisations who supported OWASP Suffolk chapter by providing funds or venue.
 
