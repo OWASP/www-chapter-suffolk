@@ -16,8 +16,8 @@ postal-code:
 
 ## Welcome
 
-Welcome to the Suffolk chapter homepage. The chapter leaders are <a href="mailto:wojciech.cichon@owasp.org">Wojciech T Cichon</a>
- and <a href="mailto:abhinav.sejpal@owasp.org">Abhinav Sejpal</a>.
+Welcome to the Suffolk chapter homepage. The chapter leaders are <a href="mailto:wojciech.cichon@owasp.org">Wojciech T Cichon</a>, 
+<a href="mailto:abhinav.sejpal@owasp.org">Abhinav Sejpal</a>, <a href="mailto:david.flint@owasp.org">David Flint</a> and <a href="mailto:martin.russ@owasp.org">Martin Russ</a>.
   
 Please follow as on [Twitter](https://twitter.com/owaspsuffolk)  and please subscribe to our [Youtube](https://www.youtube.com/channel/UCGU_bGraZZZc37pQytdaH6w) channel.
  
@@ -52,6 +52,11 @@ speaker bio to one of the Chapter Leader
  wojciech.cichon@owasp.org
  
  abhinav.sejpal@owasp.org
+ 
+ david.flint@owasp.org
+ 
+ martin.russ@owasp.org
+ 
 ```
 
 ## Next Meeting/Event(s)
