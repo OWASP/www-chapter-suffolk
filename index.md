@@ -46,7 +46,7 @@ The following is the list of organisations who supported OWASP Suffolk chapter b
 #### Call For Speakers
 
 If you would like to present a talk on Application Security at future OWASP Suffolk Chapter events - please email the proposed talk title, abstract and 
-speaker bio to one of the Chapter Leader 
+speaker bio to one of the Chapter Leaders: 
 
 ```
  wojciech.cichon@owasp.org
