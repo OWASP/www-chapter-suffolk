@@ -63,7 +63,7 @@ speaker bio to one of the Chapter Leaders:
 
 ##### OWASP Suffolk Chapter Meetup #####
 
-### [TBD (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/#/)
+### [24th March 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/276874058/)
 
 Location: virtual
 
@@ -72,6 +72,9 @@ Location: virtual
   - **Introduction**
   - **Security for Managers - Martin Russ**
   - **Networking**
+  
+"Security For Managers"’ is intended as a wake-up call for people who assume that IT security doesn’t apply to them or their company. Think of it as a visit from a consultant who spends a lot of time with you, and then says: ‘This is what you need to do’, and then doesn’t charge you a penny!
+  
   
 ## Upcoming Meeting/Event(s)
 
