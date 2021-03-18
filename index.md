@@ -80,7 +80,7 @@ Location: virtual
 
 ##### OWASP Suffolk Chapter Meetup #####
 
-### [TBD (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/#/)
+### [27th April 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/#/)
 
 Location: virtual
 
