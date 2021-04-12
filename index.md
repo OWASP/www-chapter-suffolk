@@ -30,27 +30,7 @@ The chapter leaders are <a href="mailto:wojciech.cichon@owasp.org">Wojciech T Ci
 - Community: To build a community and network where people can share knowledge, discuss issues, meet new people and help us to achieve our goals
 
 Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subscribe to our [Youtube](https://www.youtube.com/channel/UCGU_bGraZZZc37pQytdaH6w) channel.
-<!-- 
-## Meeting Supporters
 
-The following is the list of organisations who supported OWASP Suffolk chapter by providing funds or venue.
-
-<table cellpadding="15" cellspacing="0">
-
-<tr>
-
-<td>
-<img src="assets/images/400px-UOS-IWIC-logo-RGB.jpg" alt="IWIC"/>
-</td>
-
-<td>
-<img src="assets/images/800px-OCCAMSEC_logo.jpg" alt="OCCAMSEC"/>
-</td>
-
-</tr>
-
-</table>
--->
 #### Call For Speakers
 
 If you would like to present a talk on Application Security at future OWASP Suffolk Chapter events - please email the proposed talk title, abstract and 
