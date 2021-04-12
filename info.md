@@ -1,4 +1,4 @@
-### Suffolk Information
+### Suffolk Chapter Information
  
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/suffolk-chapter)
 
@@ -9,12 +9,13 @@
 * [Twitter](https://twitter.com/owaspsuffolk)
  
 
-### Become speaker
-
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+### Become a Speaker
 
 If you would like to present a talk on Application Security at future OWASP Suffolk Chapter events - please email the proposed talk title, abstract and 
 speaker bio to one of the Chapter Leaders
+
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+
 
 ### Useful Links
 * [Become a Member](https://www.owasp.org/index.php/Membership)
