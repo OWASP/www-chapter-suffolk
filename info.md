@@ -8,8 +8,6 @@
  
 * [Twitter](https://twitter.com/owaspsuffolk)
  
----
-
 ### Become a Speaker
 
 If you would like to present a talk on Application Security at future OWASP Suffolk Chapter events - please email the proposed talk title, abstract and 
@@ -17,7 +15,6 @@ speaker bio to one of the Chapter Leaders
 
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
----
 ### Useful Links
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 
