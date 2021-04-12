@@ -12,8 +12,6 @@ postal-code:
 
 ---
 
-{% include chapter_events.html group=page.meetup-group %} 
-
 ## Welcome
 
 Welcome to the Suffolk chapter homepage!
