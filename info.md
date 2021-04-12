@@ -1,6 +1,12 @@
 ### Suffolk Chapter Information
- 
+
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/suffolk-chapter)
+
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+
+### Social Links
 
 * [MeetUp](https://www.meetup.com/OWASP-Suffolk-Chapter/)
 
@@ -14,9 +20,3 @@ If you would like to present a talk on Application Security at future OWASP Suff
 speaker bio to one of the Chapter Leaders
 
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-
-### Useful Links
-* [Become a Member](https://www.owasp.org/index.php/Membership)
-
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
-
