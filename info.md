@@ -13,8 +13,10 @@
 
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
+If you would like to present a talk on Application Security at future OWASP Suffolk Chapter events - please email the proposed talk title, abstract and 
+speaker bio to one of the Chapter Leaders
 
-### useful Links
+### Useful Links
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
