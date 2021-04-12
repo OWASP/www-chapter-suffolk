@@ -31,22 +31,6 @@ The chapter leaders are <a href="mailto:wojciech.cichon@owasp.org">Wojciech T Ci
 
 Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subscribe to our [Youtube](https://www.youtube.com/channel/UCGU_bGraZZZc37pQytdaH6w) channel.
 
-#### Call For Speakers
-
-If you would like to present a talk on Application Security at future OWASP Suffolk Chapter events - please email the proposed talk title, abstract and 
-speaker bio to one of the Chapter Leaders: 
-
-```
- wojciech.cichon@owasp.org
- 
- abhinav.sejpal@owasp.org
- 
- david.flint@owasp.org
- 
- martin.russ@owasp.org
- 
-```
-
 ## Next Meeting/Event(s)
 
 ##### OWASP Suffolk Chapter Meetup #####
