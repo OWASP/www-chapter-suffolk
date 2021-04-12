@@ -12,7 +12,7 @@ postal-code:
 
 ---
 
- 
+{% include chapter_events.html group=page.meetup-group %} 
 
 ## Welcome
 
