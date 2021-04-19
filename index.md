@@ -40,7 +40,7 @@ Location: virtual
 #### Agenda:
 
   - **Introduction**
-  - **OWASP ZAP for the complete beginner - A practical demo - David Flint and Wojciech Cichon**
+  - **OWASP ZAP for the complete beginner - A practical demo - David Flint**
   - **Networking**
 
 
