@@ -33,15 +33,13 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ##### OWASP Suffolk Chapter Meetup #####
 
-### [27th April 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/277007739/)
+### TBA
 
 Location: virtual
 
 #### Agenda:
 
-  - **Introduction**
-  - **OWASP ZAP for the complete beginner - A practical demo - David Flint**
-  - **Networking**
+  - **Your talk could be here**
 
 
  ----
