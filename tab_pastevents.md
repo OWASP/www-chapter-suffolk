@@ -12,6 +12,17 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+### [27th April 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/277007739/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **Introduction**
+  - **OWASP ZAP for the complete beginner - A practical demo - David Flint**
+  - **Networking**
+
+
 ### [24th March 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/276874058/)
 
 Location: virtual
