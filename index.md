@@ -33,13 +33,15 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ##### OWASP Suffolk Chapter Meetup #####
 
-### TBA
+### [25th May 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278042982/)
 
 Location: virtual
 
 #### Agenda:
 
-  - **Your talk could be here**
+  - **Introduction**
+  - **Securing SDLC - SCA Tools by Wojciech Cichon**
+  - **Networking**
 
 
  ----
