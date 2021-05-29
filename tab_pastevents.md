@@ -12,6 +12,17 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+### [25th May 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278042982/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **Introduction**
+  - **Securing SDLC - SCA Tools by Wojciech Cichon**
+  - **Networking**
+
+
 ### [27th April 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/277007739/)
 
 Location: virtual
