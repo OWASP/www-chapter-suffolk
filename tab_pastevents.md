@@ -12,6 +12,27 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+### [8th June 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278545312/)
+
+Location: virtual
+
+#### Agenda:
+
+Get together to discuss OWASP, hot topics, to share learning resources, discuss tools and techniques.
+
+This is a social event where you can have your say on the direction of the group, suggest topics for future meetings, discuss where you are in your security journey and how we can help. There will be no slides or speakers, just a social chit-chat.
+
+
+### [22nd June 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278489387/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **Introduction**
+  - **IoT Security by Ilya Kudryavtsev**
+  - **Networking**
+
 ### [25th May 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278042982/)
 
 Location: virtual
