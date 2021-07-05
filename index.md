@@ -33,27 +33,23 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ##### OWASP Suffolk Chapter Meetup #####
 
-### [8th June 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278545312/)
-
-Location: virtual
-
-#### Agenda:
-
-Get together to discuss OWASP, hot topics, to share learning resources, discuss tools and techniques.
-
-This is a social event where you can have your say on the direction of the group, suggest topics for future meetings, discuss where you are in your security journey and how we can help. There will be no slides or speakers, just a social chit-chat.
-
-
-### [22nd June 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/278489387/)
+### [29th September 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/279020534/)
 
 Location: virtual
 
 #### Agenda:
 
   - **Introduction**
-  - **IoT Security by Ilya Kudryavtsev**
-  - **Networking**
+  - **The Eastern Cyber Resilience Centre - helping SMEs be cyber resilient by Detective Inspector Fiona Bail**
 
+Cybercrime is a growing threat to businesses of all sizes, but small and medium enterprises may not have the resources or confidence to implement cyber resilience strategies. The ECRC has been set up to help those companies recognise the risk and mitigate it, through free membership, guidance and affordable services.
+
+Join us for a review of the current cybercrime landscape, why the ECRC has been set up and some practical tips that companies can implement to help improve their cyber resilience.
+
+✔ What is the Eastern Cyber Resilience Centre (ECRC)
+✔ Why the ECRC is required
+✔ A review of the current cyber resilience landscape
+✔ Some practical guidance for companies to implement
 
  ----
 
