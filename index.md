@@ -47,8 +47,11 @@ Cybercrime is a growing threat to businesses of all sizes, but small and medium 
 Join us for a review of the current cybercrime landscape, why the ECRC has been set up and some practical tips that companies can implement to help improve their cyber resilience.
 
 ✔ What is the Eastern Cyber Resilience Centre (ECRC)
+
 ✔ Why the ECRC is required
+
 ✔ A review of the current cyber resilience landscape
+
 ✔ Some practical guidance for companies to implement
 
  ----
