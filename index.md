@@ -19,7 +19,7 @@ Welcome to the Suffolk chapter homepage!
 We are a group of people with an interest in cyber secrity. Our aim is to bring together students, researchers, professionals and educators from academia and the public and private sectors in order to raise awareness and to educate about cyber security. We want to build a local community of like-minded people and to help promote and grow the local cyber security industry.
 
 The chapter leaders are <a href="mailto:wojciech.cichon@owasp.org">Wojciech T Cichon</a>, 
-<a href="mailto:david.flint@owasp.org">David Flint</a>, <a href="mailto:martin.russ@owasp.org">Martin Russ</a> and <a href="mailto:abhinav.sejpal@owasp.org">Abhinav Sejpal</a>.
+<a href="mailto:david.flint@owasp.org">David Flint</a> and <a href="mailto:martin.russ@owasp.org">Martin Russ</a>.
 
 ## Our Goals
 
