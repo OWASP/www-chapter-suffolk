@@ -85,7 +85,7 @@ Green Duck’s Labsec cyber security division delivers continuous security monit
 
 Your Hosts:
 
-Delivered to you in collaboration with Suffolk Developers group, Ipswich & Suffolk Tech Network and OWASP.
+Delivered to you in collaboration with Suffolk Developers group, Ipswich & Suffolk Tech Network and OWASP Suffolk.
 
 ----
 
