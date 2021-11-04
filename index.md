@@ -31,28 +31,30 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-##### OWASP Suffolk Chapter Meetup #####
+##### OWASP Suffolk CTF 2021 - ONLINE #####
 
-### [29th September 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/279020534/)
+### [14th November 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/281865338/)
 
 Location: virtual
 
 #### Agenda:
 
-  - **Introduction**
-  - **The Eastern Cyber Resilience Centre - helping SMEs be cyber resilient by Detective Inspector Fiona Bail**
+  - **Introduction and overview of the event**
+  - **Capture the Flag**
 
-Cybercrime is a growing threat to businesses of all sizes, but small and medium enterprises may not have the resources or confidence to implement cyber resilience strategies. The ECRC has been set up to help those companies recognise the risk and mitigate it, through free membership, guidance and affordable services.
+OWASP Suffolk Chapter is proud to present a CTF event for 2021 in collaboration with OWASP Diversity and Inclusion Committee and many OWASP UK Chapters (including; Dorset, London, Bristol, Reading, Cambridge, Newcastle).
 
-Join us for a review of the current cybercrime landscape, why the ECRC has been set up and some practical tips that companies can implement to help improve their cyber resilience.
+The CTF will be hosted by Security Innovation using their platform and will be instructor lead. It combines with Security Innovation's CMD+Ctrl Bootcamp and they are extending an offer to all participants for 4-weeks FREE access to the self-paced training courses.
 
-✔ What is the Eastern Cyber Resilience Centre (ECRC)
+Although the event is online, as this is a live participatory event it will not be recorded.
 
-✔ Why the ECRC is required
+Want to test your skills in identifying web app vulnerabilities? Join Several OWASP UK Chapters and Security Innovation as members compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defence is all about thinking on your feet.
 
-✔ A review of the current cyber resilience landscape
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills.
 
-✔ Some practical guidance for companies to implement
+ATTENTION: Additional registration required in order to gain access to the CTF platform and play.
+Event registration link will be shared nearer to the time
+
 
  ----
 
