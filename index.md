@@ -31,7 +31,7 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-##### OWASP Suffolk CTF 2021 - ONLINE #####
+## OWASP Suffolk CTF 2021 - ONLINE ##
 
 ### [14th November 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/281865338/)
 
@@ -55,7 +55,7 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
 ATTENTION: Additional registration required in order to gain access to the CTF platform and play.
 Event registration link will be shared nearer to the time
 
-##### Infrastructure as Code (IaC) Misconfigurations #####
+## Infrastructure as Code (IaC) Misconfigurations ##
 
 ### [2nd December 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/282025399/)
 
@@ -80,7 +80,7 @@ Your Hosts:
 Delivered to you in collaboration with OWASP Bristol.
 
 
-##### Hacking Demystified - How hackers locate, identify and target your business #####
+## Hacking Demystified - How hackers locate, identify and target your business ##
 
 ### [26th January 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/281865512/)
 
