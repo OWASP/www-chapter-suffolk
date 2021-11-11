@@ -55,6 +55,31 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
 ATTENTION: Additional registration required in order to gain access to the CTF platform and play.
 Event registration link will be shared nearer to the time
 
+##### Infrastructure as Code (IaC) Misconfigurations #####
+
+### [2nd December 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/282025399/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP updates**
+  - **The talk**
+  - **Open discussion**
+
+Infrastructure as Code (IaC) makes deploying cloud or container configurations scalable and faster. If you are launching a microservice into a Kubernetes cluster, or even building an entire AWS virtual infrastructure, IaC can automate the deployment. By building repeatable templates you can also ensure that deployments happen exactly as you design, every time. However, errors in infrastructure configuration are now regarded as the second biggest cause of data breaches. There are many ways to give adversaries an advantage through security misconfigurations. Overly permissive storage volumes, unauthenticated database access, or ports left open to the internet have all been a cause of compromise. The solution? Treat your infrastructure code the same as your application code. During your build process, use tools to scan for infrastructure misconfigurations. When you find them raise alerts or even break the build.
+
+In this session, we will discuss common types of IaC misconfigurations, and demonstrate a free, open-source security tool that developers can build into their pipelines to help protect infrastructure from compromise.
+
+About Ori Bendet:
+
+An experienced product leader combining strong technical and marketing skills, Ori has been leading Checkmarx's flagship product, CxSAST (Static Application Security Testing), a Gartner and Forrester market-leading solution, serving thousands of customers worldwide for the last 2 years. Prior to Checkmarx, he was in Time To Know, HPE, PicApp and Bezeq in various product and engineering positions.
+
+Your Hosts:
+
+Delivered to you in collaboration with OWASP Bristol.
+
+
 ##### Hacking Demystified - How hackers locate, identify and target your business #####
 
 ### [26th January 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/281865512/)
