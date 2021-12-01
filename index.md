@@ -31,30 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## OWASP Suffolk CTF 2021 - ONLINE ##
-
-### [14th November 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/281865338/)
-
-Location: virtual
-
-#### Agenda:
-
-  - **Introduction and overview of the event**
-  - **Capture the Flag**
-
-OWASP Suffolk Chapter is proud to present a CTF event for 2021 in collaboration with OWASP Diversity and Inclusion Committee and many OWASP UK Chapters (including; Dorset, London, Bristol, Reading, Cambridge, Newcastle).
-
-The CTF will be hosted by Security Innovation using their platform and will be instructor lead. It combines with Security Innovation's CMD+Ctrl Bootcamp and they are extending an offer to all participants for 4-weeks FREE access to the self-paced training courses.
-
-Although the event is online, as this is a live participatory event it will not be recorded.
-
-Want to test your skills in identifying web app vulnerabilities? Join Several OWASP UK Chapters and Security Innovation as members compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defence is all about thinking on your feet.
-
-For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills.
-
-ATTENTION: Additional registration required in order to gain access to the CTF platform and play.
-Event registration link will be shared nearer to the time
-
 ## Infrastructure as Code (IaC) Misconfigurations ##
 
 ### [2nd December 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/282025399/)
