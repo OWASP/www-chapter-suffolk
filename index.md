@@ -33,7 +33,7 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Discussion: Getting started in Ethical Hacking ##
 
-### [19th January 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283069487/)
+### [18th January 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283069487/)
 
 Location: virtual
 
