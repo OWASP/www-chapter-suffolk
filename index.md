@@ -91,7 +91,7 @@ Location: virtual
 #### Agenda:
 
   - **OWASP introduction and updates**
-  - **The talk - Cyber Security - Thinking Like The Enemy **
+  - **The talk - Cyber Security - Thinking Like The Enemy**
   - **Q&A**
 
 The Talk:
