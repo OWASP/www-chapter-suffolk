@@ -81,6 +81,37 @@ Your Hosts:
 
 Delivered to you in collaboration with Suffolk Developers group, Ipswich & Suffolk Tech Network and OWASP Suffolk.
 
+
+## Cyber Security - Thinking Like The Enemy - Peter Cochrane OBE ##
+
+### [15th February 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283194340/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **The talk - Cyber Security - Thinking Like The Enemy **
+  - **Q&A**
+
+The Talk:
+
+There is far more to cyber security than technology.
+
+Every successful attack starts with human fallibility and failure.
+
+The Dark Side is an integrated business venture on a global scale.
+
+Operating as individually isolated organisations means we can only lose.
+
+Integrating the information and resources across sectors and countries is essential.
+
+The projected ‘business earnings of The Dark Side will be >5x the GDP of the UK by 2030.
+
+About Peter Cochrane OBE:
+
+Peter is an academic, advisor and consultant with multiple awards and accreditations. Around Ipswich, he is known for leading the Research at BT Labs at Adastral Park for many years, and more recently for working in the Department of Science and Technology at the University of Suffolk. He has been an advisor to Facebook, written over 1,000 scientific and engineering papers, patents, press articles, edited books and chapters. He has appeared on over 400 national and international appearances on radio and TV. He is a regular contributor to the Times, Telegraph, Guardian, and The Australian newspapers plus Wired Magazine, T3, Intelligence and Weekly Diamond Magazines.
+
 ----
 
 **Code of Conduct**:
