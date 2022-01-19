@@ -12,6 +12,24 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## Discussion: Getting started in Ethical Hacking ##
+
+### [18th January 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283069487/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **Welcome back & overview of what we have in store for 2022**
+  - **OWASP updates**
+  - **Open discussion on how to get started in Ethical Hacking**
+
+Getting started in Ethical Hacking can seem daunting. There is so much information out there, so many websites, tools, YouTube videos, courses, etc etc. Where do you start? Do you have to do a course or be certified? Do I need to set up my own testing lab, and if so, what operating system and tools do I use? Is there a way to learn for free? So many questions. It can feel so overwhelming at times, enough to put you off.
+
+The aim of this event is to offer an open discussion where we can all share tips, tricks, resources and suggestions around how to go about getting started in Ethical Hacking. Everything from how to make learning fun, recommended resources such as websites, podcasts, gamification sites (CTFs), tools, bug bounty platforms and tips and tricks on how to learn and remain focused.
+
+This event will be open to members of OWASP Suffolk and other OWASP groups. This event will not be recorded.
+
 ## Infrastructure as Code (IaC) Misconfigurations ##
 
 ### [2nd December 2021 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/282025399/)
