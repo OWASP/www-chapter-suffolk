@@ -31,39 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## Hacking Demystified - How hackers locate, identify and target your business ##
-
-### [26th January 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/281865512/)
-
-Location: virtual
-
-#### Agenda:
-
-  - **Introduction from the ISTN, Suffolk Developers and OWASP Suffolk**
-  - **The talk - Hacking Demystified**
-  - **Q&A**
-
-A high-level overview around some of the tactics and attack paths ‘hackers’ utilise when profiling and ultimately attacking organisations.
-
-What we will cover:
-
-✔ Common cyber security misconceptions
-✔ Types of hackers
-✔ Examples of how hackers profile organisations
-✔ Office365 attack scenarios
-✔ Defence
-
-About Matthew Hunn:
-
-Matthew Hunn is a penetration tester who supports organisation's in identifying their security weaknesses and their impact on the integrity of critical business assets. Leveraging his past experience in digital forensics and incident response, Matthew replicates the 'attack vectors' a malicious actor would seek and exploit to compromise a victim; allowing them to ensure resilient, fit for purpose, defences are in place.
-
-Green Duck’s Labsec cyber security division delivers continuous security monitoring, consultancy and strategy planning, penetration testing and Cyber Essentials certification services.
-
-Your Hosts:
-
-Delivered to you in collaboration with Suffolk Developers group, Ipswich & Suffolk Tech Network and OWASP Suffolk.
-
-
 ## Cyber Security - Thinking Like The Enemy - Peter Cochrane OBE ##
 
 ### [15th February 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283194340/)
