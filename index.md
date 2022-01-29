@@ -61,7 +61,7 @@ About Peter Cochrane OBE:
 
 Peter is an academic, advisor and consultant with multiple awards and accreditations. Around Ipswich, he is known for leading the Research at BT Labs at Adastral Park for many years, and more recently for working in the Department of Science and Technology at the University of Suffolk. He has been an advisor to Facebook, written over 1,000 scientific and engineering papers, patents, press articles, edited books and chapters. He has appeared on over 400 national and international appearances on radio and TV. He is a regular contributor to the Times, Telegraph, Guardian, and The Australian newspapers plus Wired Magazine, T3, Intelligence and Weekly Diamond Magazines.
 
-## The best practices of working securely on AWS - Alex Kearns ##
+## OWASP Juice Shop demonstration ##
 
 ### [22nd February 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283567353/)
 
@@ -81,6 +81,8 @@ OWASP Juice Shop is a free insecure web application that you can install on your
 Juice Shop has built-in tutorials and comes with 100 challenges for you to find and exploit. With each challenge you solve your score increases on the scoreboard. But wait, where is the scoreboard? That's your very first challenge, to find the scoreboard hidden within the application. As you progress Juice Shop awards you points and displays your progress. Challenges are ranked by difficulty.
 
 After walking you through installation and setup we will have an interactive session where we demo how to find the scoreboard and complete a few of the easy challenges.
+
+## The best practices of working securely on AWS - Alex Kearns ##
 
 ### [29th March 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/)
 
