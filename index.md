@@ -82,7 +82,7 @@ Juice Shop has built-in tutorials and comes with 100 challenges for you to find 
 
 After walking you through installation and setup we will have an interactive session where we demo how to find the scoreboard and complete a few of the easy challenges.
 
-## The best practices of working securely on AWS - Alex Kearns ##
+## A Swiss Knife for API Security and Legal Risk Management - Dr Baljeet Malhotra ##
 
 ### [29th March 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/)
 
@@ -96,13 +96,32 @@ Location: virtual
 
 The Talk:
 
-Cloud has been around for a relatively long time now, yet there doesn’t seem to be a huge community of purely security focused individuals working with it. My theory is that this is down to cloud security appearing to be so different to what people are used to working with. Let’s try and bust that myth.
+Cloud has been around for a relatively long time now, yet there doesn’t seem to be a huge community of purely security focused individuals working with it. My theory is that 
 
-Join me for a bird’s eye view of the most important security concepts on AWS, what the best practices are around them as well as what AWS can do to help make life easier. I hope that this talk makes some of you more comfortable exploring AWS in the future.
+## The best practices of working securely on AWS - Alex Kearns ##
 
-About Alex:
+### [10th March 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283912021/)
 
-Alex Kearns is a consultant at Inawisdom in Ipswich delivering data and AI/ML solutions on AWS for a variety of customers. Prior to this he has worked for an early stage startup and BT in a security focused role. He has a firm belief that security best practices should underpin all workloads, especially those in public clouds such as AWS.
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP updates**
+  - **The talk - A Swiss Knife for API Security and Legal Risk Management**
+
+The Talk:
+
+Web applications are prone to various cybersecurity risks. Did you know that 96% of these web applications contain some Open Source? Furthermore, did you know that 99% of such Open Source contain some web APIs. You may be surprised to know that web APIs contribute 83% of the traffic over the internet. Unfortunately, this growing API usage also means growing cybersecurity risks. Although, APIs benefit organizations immensely through accelerated innovations, newer business models, competitive differentiation, but organizations are also negatively impacted by APIs due to their weak security posture leading to business disruptions, legal and compliance issues. In 2022, API abuses are predicted to be the most frequent attack vector resulting in data breaches for web applications. Given the importance of APIs for digital transformation at organizations it is imperative for their Security, Compliance and Audit professionals to get a handle on APIs to manage various API related risks.
+
+This session will provide an overview of an API Governance framework for effective API Risk Management. This framework is inspired by the Zero Trust model that enterprises can use as a “Swiss Knife” for reducing their API related risks. We’ll also highlight best practices and hands-on examples for API Risk Management.
+
+About Dr Baljeet Malhotra:
+
+Dr Baljeet Malhotra is an award-winning researcher known for his work in Open Source and API Data Management. He conceptualized the world's first "API Composition Analysis" based on source code static analysis. He founded TeejLab in 2017 and steered the team to build API Discovery and Security™, world's first comprehensive end-to-end API Management platform. Prior to TeejLab, he established the R&D unit of Black Duck Software in 2016 (acquired by Synopsys), he has also served as Research Director at SAP. He received a PhD in Computing Science from the University of Alberta and won several awards including NSERC (Canada) scholar in 2005 and Global Young Scientist (Singapore). He concurrently holds Adjunct Professor positions at the University of British Columbia, University of Victoria and University of Northern BC.
+
+Hosting:
+
+The talk is hosted by the OWASP Bristol chapter and is shared with OWASP Suffolk and OWASP Dorset and will be streamed live on YouTube. The streaming link will be made available closer to the event.
 
 ----
 
