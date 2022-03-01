@@ -12,6 +12,27 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## OWASP Juice Shop demonstration ##
+
+### [22nd February 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283567353/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **Live demo of OWASP Juice Shop**
+
+So you want to have a go at ethical hacking but you don't know where to start?
+
+In under an hour Dave, Wojciech and Martin will walk you through installing, setting up and attacking OWASP Juice Shop from the comfort of your own home.
+
+OWASP Juice Shop is a free insecure web application that you can install on your own computer. It's a popular security training tool riddled with security issues like SQL injection, XSS and security misconfigurations. Using gamification Juice Shop acts as an e-commerce website that you can legally attack on your own computer.
+
+Juice Shop has built-in tutorials and comes with 100 challenges for you to find and exploit. With each challenge you solve your score increases on the scoreboard. But wait, where is the scoreboard? That's your very first challenge, to find the scoreboard hidden within the application. As you progress Juice Shop awards you points and displays your progress. Challenges are ranked by difficulty.
+
+After walking you through installation and setup we will have an interactive session where we demo how to find the scoreboard and complete a few of the easy challenges.
+
 ## Cyber Security - Thinking Like The Enemy - Peter Cochrane OBE ##
 
 ### [15th February 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283194340/)
