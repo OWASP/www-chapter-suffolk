@@ -78,6 +78,8 @@ About Alex:
 
 Alex Kearns is a consultant at Inawisdom in Ipswich delivering data and AI/ML solutions on AWS for a variety of customers. Prior to this he has worked for an early stage startup and BT in a security focused role. He has a firm belief that security best practices should underpin all workloads, especially those in public clouds such as AWS.
 
+## All about Passwords ##
+
 ### [12th April 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/284467213/)
 
 Location: virtual
