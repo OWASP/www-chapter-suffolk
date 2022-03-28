@@ -73,6 +73,30 @@ Throughout the talk we will employ a Red vs Blue format with Martin playing Blue
 
 Disclaimer: As always our events are designed to educate. Any tools and techniques demonstrated are for informative purposes only. We do not endorse their use for malicious purposes.
 
+## Are We Secure? - Jeff Williams ##
+
+### [26th April 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/284899658/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **The talk - Are we Secure?**
+  - **Q&A**
+
+The Talk:
+
+We all trust software with the most important aspects of our life… but it’s a blind trust with virtually no justification. Actually, by almost any measure, application security has been failing for 20 years. Software is still riddled with vulnerabilities and gets attacked thousands of times a month – mostly undetected. Yet instead of trying different approaches, we mostly keep pushing the same futile and expensive practices harder.
+
+In this talk, we’ll discuss why the underlying asymmetric information problem in the software market makes it impossible to make progress. And we’ll talk about how we can escape this trap, change the software market, and make software trustworthy for everyone.
+
+About the speaker:
+
+Jeff Williams - CTO of Contrast Security and OWASP Co-Founder
+
+Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.
+
 
 ----
 
