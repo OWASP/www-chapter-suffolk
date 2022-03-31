@@ -31,28 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## The best practices of working securely on AWS - Alex Kearns ##
-
-### [29th March 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/)
-
-Location: virtual
-
-#### Agenda:
-
-  - **OWASP introduction and updates**
-  - **The talk - The best practices of working securely on AWS**
-  - **Q&A**
-
-The Talk:
-
-Cloud has been around for a relatively long time now, yet there doesn’t seem to be a huge community of purely security focused individuals working with it. My theory is that this is down to cloud security appearing to be so different to what people are used to working with. Let’s try and bust that myth.
-
-Join me for a bird’s eye view of the most important security concepts on AWS, what the best practices are around them as well as what AWS can do to help make life easier. I hope that this talk makes some of you more comfortable exploring AWS in the future.
-
-About Alex:
-
-Alex Kearns is a consultant at Inawisdom in Ipswich delivering data and AI/ML solutions on AWS for a variety of customers. Prior to this he has worked for an early stage startup and BT in a security focused role. He has a firm belief that security best practices should underpin all workloads, especially those in public clouds such as AWS.
-
 ## All about Passwords ##
 
 ### [12th April 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/284467213/)
