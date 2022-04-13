@@ -12,6 +12,27 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## All about Passwords ##
+
+### [12th April 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/284467213/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **All about Passwords**
+  - **Q&A**
+
+Love them or hate them, passwords have become part of our daily life. We use them to sign into just about everything, from our devices to emails, social media, cloud services and digital banking. We have to remember different passwords for each site we need to log-in to, and we are forced to change them on occasion. It can be a lot to remember. Password Managers can help and 2FA or MFA can provide extra security. Yet despite all that, service providers can still be compromised and our carefully chosen passwords can end up somewhere on the darkweb being sold by the hundred thousand.
+
+Making use of both slides and live demonstrations Martin and David will take you through a brief history of passwords, discussing password lengths and formats, password policies, guidelines and best practices, the storage and transmission of passwords, 2FA and MFA, and pretty much everything you ever wanted to know about passwords. All in under an hour.
+
+Throughout the talk we will employ a Red vs Blue format with Martin playing Blue, discussing best practices and how to keep your logins protected. While David will be playing Red, discussing the techniques and tools employed by malicious actors in an attempt to secure access to your logins.
+
+Disclaimer: As always our events are designed to educate. Any tools and techniques demonstrated are for informative purposes only. We do not endorse their use for malicious purposes.
+
+
 ## The best practices of working securely on AWS - Alex Kearns ##
 
 ### [29th March 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/)
