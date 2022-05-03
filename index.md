@@ -55,6 +55,34 @@ About the speaker:
 
 Phil Basford is one of the Ipswich AWS User Group Leaders and contributes to the AWS Community by speaking at a number of summits, community days and meet-ups. He is a regular blogger, open-source contributor, and SME on Machine Learning, MLOps, DevOps, Containers and Serverless. Phil has over 6 years of commercial AWS experience and holds 12 AWS Certifications, including: AWS Certified Solutions Architect Professional AWS DevOps Engineer Professional and Amazon Machine Learning Specialism. Phil works for Inawisdom (an AWS Partner) as a CTO AI & ML. Phil is Inawisdom’s AWS APN Ambassador and evangelist.
 
+## Log4J - Past, Present, and Future - Ariel Assaraf, Yuval Khalifa ##
+
+### [17th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285669333/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **The talk - Log4J - Past, Present, and Future**
+  - **Q&A**
+
+The Talk:
+
+The log4j incident shocked the world back in December - but by implementing the proper protocols and tools early-on organizations can be better prepared moving forward. Logs, metrics, security, and metrics can be your secret weapon when it comes to the observability of your applications and software. But are you using all of your data sources to their full potential?
+
+We’ll go over what organizations should keep in mind before, during, and post-security vulnerabilities (based on the log4j incident) when it comes to their monitoring tools and how powerful insights can be pulled to avoid delayed crisis management.
+
+About the speakers:
+
+Ariel Assaraf - Co-founder and CEO at Coralogix
+
+Ariel is a veteran of the Israeli intelligence elite unit 8200. He has over 10 years of Product and team management experience and was the former product manager at the IDF and QA & Integration GL at Verint.
+
+Yuval Khalifa - Chief Security Architect at Coralogix
+
+A former enterprise security expert at Sygnia, Cyber solutions architect at the IAI, and a CTO at the largest insurance agency in Israel. Yuval has vast experience in Cybersecurity secure coding, network architecture, and AI/ML.
+
 ## OWASP Suffolk's May 2022 Fight Club ##
 
 ### [24th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285668627/)
