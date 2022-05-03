@@ -55,6 +55,16 @@ About the speaker:
 
 Phil Basford is one of the Ipswich AWS User Group Leaders and contributes to the AWS Community by speaking at a number of summits, community days and meet-ups. He is a regular blogger, open-source contributor, and SME on Machine Learning, MLOps, DevOps, Containers and Serverless. Phil has over 6 years of commercial AWS experience and holds 12 AWS Certifications, including: AWS Certified Solutions Architect Professional AWS DevOps Engineer Professional and Amazon Machine Learning Specialism. Phil works for Inawisdom (an AWS Partner) as a CTO AI & ML. Phil is Inawisdom’s AWS APN Ambassador and evangelist.
 
+## OWASP Suffolk's May 2022 Fight Club ##
+
+### [24th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285668627/)
+
+Location: virtual
+
+No agenda, no slides, no recording, 100% unscripted.
+
+You know the rules..
+
 ----
 
 **Code of Conduct**:
