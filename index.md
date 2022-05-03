@@ -31,30 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## Securing your Machine Learning solutions and protecting your models - Phil Basford ##
-
-### [3rd May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285087125/)
-
-Location: virtual
-
-#### Agenda:
-
-  - **OWASP introduction and updates**
-  - **The talk - Securing your Machine Learning solutions and protecting your models**
-  - **Q&A**
-
-The Talk:
-
-Machine Learning is increasingly being used by companies as a disruptor or providing a USP. This means that Machine Learning models need to cope with being a critical part of solutions and if those solutions use PCI-DSS or PII then the models must be highly secure.
-
-In addition, if a Machine Learning model is part of your USP then you will want to protect it. Also, the EU AI Regulation and UK AI Strategy means that AI is becoming increasingly regulated. This means you need able to prove what model made a prediction and why it made it by providing auditability and explainabilty.
-
-In this talk we go over these issues and how to address them including using AWS and how to implement development best practices.
-
-About the speaker:
-
-Phil Basford is one of the Ipswich AWS User Group Leaders and contributes to the AWS Community by speaking at a number of summits, community days and meet-ups. He is a regular blogger, open-source contributor, and SME on Machine Learning, MLOps, DevOps, Containers and Serverless. Phil has over 6 years of commercial AWS experience and holds 12 AWS Certifications, including: AWS Certified Solutions Architect Professional AWS DevOps Engineer Professional and Amazon Machine Learning Specialism. Phil works for Inawisdom (an AWS Partner) as a CTO AI & ML. Phil is Inawisdom’s AWS APN Ambassador and evangelist.
-
 ## Log4J - Past, Present, and Future - Ariel Assaraf, Yuval Khalifa ##
 
 ### [17th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285669333/)
