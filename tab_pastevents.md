@@ -12,6 +12,16 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## OWASP Suffolk's May 2022 Fight Club ##
+
+### [24th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285668627/)
+
+Location: virtual
+
+No agenda, no slides, no recording, 100% unscripted.
+
+You know the rules..
+
 ## Log4J - Past, Present, and Future - Ariel Assaraf, Yuval Khalifa ##
 
 ### [17th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285669333/)
