@@ -31,16 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## OWASP Suffolk's May 2022 Fight Club ##
-
-### [24th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285668627/)
-
-Location: virtual
-
-No agenda, no slides, no recording, 100% unscripted.
-
-You know the rules..
-
 ## Patching and Backing-up ##
 
 ### [28th June 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285923061/)
