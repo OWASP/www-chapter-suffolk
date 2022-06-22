@@ -12,6 +12,12 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## OWASP Suffolk Fight Club - June 2022 ##
+
+### [21st June 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/286141452/)
+
+Location: virtual
+
 ## OWASP Suffolk's May 2022 Fight Club ##
 
 ### [24th May 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285668627/)
