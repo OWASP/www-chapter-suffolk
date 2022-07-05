@@ -12,6 +12,26 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## Using OWASP Nettacker for Recon and Vulnerability Scanning ##
+
+### [5th July 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285923135/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **The talk - Using OWASP Nettacker for Recon and Vulnerability Scanning **
+  - **Q&A**
+
+The Talk:
+
+The OWASP Nettacker project was created to automate information gathering, vulnerability scanning, and in general to aid the penetration testing engagements. Nettacker is able to run various scans using a variety of methods and generate scan reports for applications and networks, including services, bugs, vulnerabilities, misconfigurations, default credentials and many other cool features - for example the ability to chain different scan methods. This relatively new (Summer 2017) and a lesser-known OWASP project has generated a huge amount of interest at BlackHat Europe 2018/2019 Arsenal live demo gathering massive crowds of seasoned hackers and penetration testers eager to see this new tool in action. This talk will showcase the OWASP Nettacker project giving an overview of its features and including a live demo of the tool.
+
+About the speaker:
+
+Sam Stepanyan is an OWASP London Chapter Leader and an Independent Application Security Consultant with over 20 years of experience in the IT industry with a background in software engineering and web application development. Sam has worked for various financial services institutions in the City of London specialising in Application Security consulting, Secure Software Development Lifecycle (SDLC), developer training, source code reviews and vulnerability management. He is also a Subject Matter Expert in Web Application Firewalls (WAF) and SIEM systems. Sam holds a Master’s degree in Software Engineering and a CISSP certification.
+
 ## Patching and Backing-up ##
 
 ### [28th June 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285923061/)
