@@ -40,7 +40,7 @@ Location: virtual
 #### Agenda:
 
   - **OWASP introduction and updates**
-  - **RASP demo from Jeff **
+  - **RASP demo from Jeff**
 
 The Demo:
 
