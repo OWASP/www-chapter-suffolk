@@ -31,26 +31,25 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## RASP demo - Jeff Williams ##
+## API Security in a DevSecOps World - Paul McCabe ##
 
-### [14th September 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/287880918/)
+### [18th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288499628/)
 
 Location: virtual
 
 #### Agenda:
 
   - **OWASP introduction and updates**
-  - **RASP demo from Jeff**
+  - **Guest speaker**
+  - **Q&A**
 
-The Demo:
+The talk:
 
-Following on from his talk earlier this year and as requested Jeff will provide a demo of RASP.
+API security in a DevSecOps setting. Covering Security tools and application security operations.
 
-About the speaker:
+Guest speaker:
 
-Jeff Williams - CTO of Contrast Security and OWASP Co-Founder
-
-Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.
+Paul McCabe has worked in Cyber security for 25 years working for Barclays, IBM and the Financial Regulator in Security Consultancy, Security Engineering and Cryptography Operations. He currently manages an application security team co-ordinating assessments for Regulatory Compliance.
 
 ----
 
