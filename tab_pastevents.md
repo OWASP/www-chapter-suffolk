@@ -12,6 +12,27 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## RASP demo - Jeff Williams ##
+
+### [14th September 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/287880918/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **RASP demo from Jeff**
+
+The Demo:
+
+Following on from his talk earlier this year and as requested Jeff will provide a demo of RASP.
+
+About the speaker:
+
+Jeff Williams - CTO of Contrast Security and OWASP Co-Founder
+
+Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.
+
 ## Using OWASP Nettacker for Recon and Vulnerability Scanning ##
 
 ### [5th July 2022 (Virtual event)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/285923135/)
