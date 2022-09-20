@@ -31,6 +31,12 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
+## OWASP Suffolk Fight Club - September 2022 ##
+
+### [27th september 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288598563/)
+
+Location: virtual
+
 ## API Security in a DevSecOps World - Paul McCabe ##
 
 ### [18th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288499628/)
