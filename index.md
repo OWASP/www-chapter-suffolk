@@ -57,6 +57,27 @@ Guest speaker:
 
 Paul McCabe has worked in Cyber security for 25 years working for Barclays, IBM and the Financial Regulator in Security Consultancy, Security Engineering and Cryptography Operations. He currently manages an application security team co-ordinating assessments for Regulatory Compliance.
 
+## An Introduction to OSINT ##
+
+### [22nd November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288747104/)
+
+Location: virtual
+
+#### Agenda:
+
+  - **OWASP introduction and updates**
+  - **An Introduction to OSINT with Q&A**
+
+OSINT - OpenSource INTelligence is the art of research and analysis of data that is freely available from publicly available sources. Combined with digital tools and techniques it's amazing what you can learn using nothing more than a computer and an internet connection.
+
+This talk will:
+
+- Introduce you to the world of OSINT
+- Provide an overview of some of the techniques and resources used in OSINT
+- Discuss how OSINT is being used today
+
+Disclaimer: This talk is given for informative purposes only. Use of OSINT tools and techniques for illegal activities is not condoned by OWASP.
+
 ----
 
 **Code of Conduct**:
