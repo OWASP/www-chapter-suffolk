@@ -31,12 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## OWASP Suffolk Fight Club - September 2022 ##
-
-### [27th september 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288598563/)
-
-Location: virtual
-
 ## API Security in a DevSecOps World - Paul McCabe ##
 
 ### [18th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288499628/)
@@ -56,6 +50,12 @@ API security in a DevSecOps setting. Covering Security tools and application sec
 Guest speaker:
 
 Paul McCabe has worked in Cyber security for 25 years working for Barclays, IBM and the Financial Regulator in Security Consultancy, Security Engineering and Cryptography Operations. He currently manages an application security team co-ordinating assessments for Regulatory Compliance.
+
+## OWASP Suffolk Fight Club - October 2022 ##
+
+### [25th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288768650/)
+
+Location: virtual
 
 ## An Introduction to OSINT ##
 
