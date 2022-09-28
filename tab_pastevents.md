@@ -12,6 +12,12 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## OWASP Suffolk Fight Club - September 2022 ##
+
+### [27th september 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288598563/)
+
+Location: virtual
+
 ## RASP demo - Jeff Williams ##
 
 ### [14th September 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/287880918/)
