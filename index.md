@@ -31,26 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 
 ## Next Meeting/Event(s)
 
-## API Security in a DevSecOps World - Paul McCabe ##
-
-### [18th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288499628/)
-
-Location: virtual
-
-#### Agenda:
-
-  - **OWASP introduction and updates**
-  - **Guest speaker**
-  - **Q&A**
-
-The talk:
-
-API security in a DevSecOps setting. Covering Security tools and application security operations.
-
-Guest speaker:
-
-Paul McCabe has worked in Cyber security for 25 years working for Barclays, IBM and the Financial Regulator in Security Consultancy, Security Engineering and Cryptography Operations. He currently manages an application security team co-ordinating assessments for Regulatory Compliance.
-
 ## What is eBPF and why should you care? - Kev Sheldrake ##
 
 ### [20th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288875196/)
