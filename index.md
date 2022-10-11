@@ -30,6 +30,7 @@ The chapter leaders are <a href="mailto:wojciech.cichon@owasp.org">Wojciech T Ci
 Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subscribe to our [Youtube](https://www.youtube.com/channel/UCGU_bGraZZZc37pQytdaH6w) channel.
 
 ## Next Meeting/Event(s)
+{% include chapter_events.html group=page.meetup-group %}
 
 ## What is eBPF and why should you care? - Kev Sheldrake ##
 
