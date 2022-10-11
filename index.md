@@ -81,7 +81,7 @@ Location: virtual
 
 ## Deepfakes: A Growing Cybersecurity Concern - Mike Warner ##
 
-### [26th October 2022 (Virtual event)](https://www.meetup.com/owasp-dorset-chapter/events/288904769/)
+### [26th October 2022 (Virtual event)]([https://www.meetup.com/owasp-suffolk-chapter/events/289044383/)
 
 Location: virtual
 
