@@ -12,6 +12,28 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## What is eBPF and why should you care? - Kev Sheldrake ##
+
+### [20th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288875196/)
+
+The Talk:
+
+eBPF is relatively new and “a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.” You can achieve similar results to writing a kernel module, but in a (supposedly – we’ll come to that) safe manner. eBPF code runs in a virtual machine and, depending on the program type, can access all sorts of kernel internals, with programs being launched when specified code points get hit.
+
+I will talk about the basics and how to get up and running, the challenges and pitfalls to overcome, a library I wrote when working at Sysinternals to take away some of the pain, the Sysmon For Linux tool I wrote for Sysinternals that logs events to Syslog, and Cilium/Tetragon (and Cilium/ebpf library) that makes accessing eBPF for system observability easier. I will discuss technical details and explain the different use cases that might benefit you, from blue team using Sysmon and Cilium/Tetragon to achieve super powerful abilities, to researchers building custom program tracers, to red team exploiting kernel vulns, to sysadmins seeking performance issues.
+
+It is a truly exciting thing that everyone is talking about.
+
+Bio: Kev Sheldrake is a security software engineer and researcher who started working in the technical security field in 1997. Over the years, Kev has been a developer and systems administrator of ‘secure’ systems, an infosec policy consultant, a penetration tester, a reverse engineer and an entrepreneur who founded and ran his own security consulting company. He currently works at Isovalent on the open source and enterprise versions of the system observability tool Tetragon, and in the past he specialised in IoT, crypto, and tool development for a number of years.
+Twitter: @kevsecurity
+
+Agenda:
+
+OWASP Updates
+- Talk: What is eBPF and why should you care? with Kev Sheldrake
+- Open discussion
+- This event will be hosted by OWASP Bristol and is shared with OWASP Suffolk and OWASP Dorset.
+
 ## OWASP Suffolk Fight Club - September 2022 ##
 
 ### [27th september 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288598563/)
