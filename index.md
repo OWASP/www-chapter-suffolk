@@ -32,6 +32,12 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
+## OWASP Suffolk Fight Club - November 2022 ##
+
+### [15th November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/289355650/)
+
+Location: virtual
+
 ## An Introduction to OSINT ##
 
 ### [22nd November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288747104/)
