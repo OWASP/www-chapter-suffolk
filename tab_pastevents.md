@@ -12,6 +12,30 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## Deepfakes: A Growing Cybersecurity Concern - Mike Warner ##
+
+### [26th October 2022 (Virtual event)]([https://www.meetup.com/owasp-suffolk-chapter/events/289044383/)
+
+Location: virtual
+
+The talk: 
+
+Join us for a look at Deepfakes with Mike Warner, one of the OWASP Dorset Chapter Leads.
+
+Deepfakes; an emergent type of threat falling under the greater and more pervasive umbrella of synthetic media, utilise a form of Artificial Intelligence/Machine Learning (AI/ML) to create believable, realistic videos, pictures, audio, and text of events which never happened.
+
+Criminals are already starting to utilise deepfake technology to impersonate executives' voices on phone calls and even their likenesses over video to add an air of legitimacy to their attacks. As deepfakes become more lifelike, phone calls, video chats and other forms of communication will be more vulnerable to abuse.
+
+This talk will look at the origins of Deepfake technology, how they work, the threats and ethical quandaries they pose, and potential mitigations, with a handful of demos.
+
+This talk is hosted by OWASP Dorset and shared with OWASP Suffolk and Bristol.
+
+## OWASP Suffolk Fight Club - October 2022 ##
+
+### [25th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288768650/)
+
+Location: virtual
+
 ## What is eBPF and why should you care? - Kev Sheldrake ##
 
 ### [20th October 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288875196/)
