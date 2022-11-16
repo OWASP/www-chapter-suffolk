@@ -32,12 +32,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
-## OWASP Suffolk Fight Club - November 2022 ##
-
-### [15th November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/289355650/)
-
-Location: virtual
-
 ## An Introduction to OSINT ##
 
 ### [22nd November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/288747104/)
@@ -58,6 +52,13 @@ This talk will:
 - Discuss how OSINT is being used today
 
 Disclaimer: This talk is given for informative purposes only. Use of OSINT tools and techniques for illegal activities is not condoned by OWASP.
+
+## OWASP Suffolk Fight Club - December 2022 ##
+
+### [13th December 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/289791004/)
+
+Location: virtual
+
 
 ----
 
