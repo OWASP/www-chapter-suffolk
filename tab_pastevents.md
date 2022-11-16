@@ -12,6 +12,12 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## OWASP Suffolk Fight Club - November 2022 ##
+
+### [15th November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/289355650/)
+
+Location: virtual
+
 ## Deepfakes: A Growing Cybersecurity Concern - Mike Warner ##
 
 ### [26th October 2022 (Virtual event)]([https://www.meetup.com/owasp-suffolk-chapter/events/289044383/)
