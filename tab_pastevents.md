@@ -33,6 +33,12 @@ This talk will:
 
 Disclaimer: This talk is given for informative purposes only. Use of OSINT tools and techniques for illegal activities is not condoned by OWASP.
 
+## OWASP Suffolk Fight Club - December 2022 ##
+
+### [13th December 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/289791004/)
+
+Location: virtual
+
 ## OWASP Suffolk Fight Club - November 2022 ##
 
 ### [15th November 2022 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/289355650/)
