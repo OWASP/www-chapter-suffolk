@@ -12,6 +12,26 @@ order: 2
  
 ## Past Meeting/Event(s)
 
+## OWASP Suffolk Fight Club - March 2023 ##
+
+### [14th March 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291863652/)
+
+Location: virtual
+
+No agenda, no slides, no recording, 100% unscripted.
+
+Practical learning: Live ethical hacking challenges, workshops, CTFs and sharing of knowledge.
+
+## OWASP Suffolk Fight Club - February 2023 ##
+
+### [28th February 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291186385/)
+
+Location: virtual
+
+No agenda, no slides, no recording, 100% unscripted.
+
+Practical learning: Live ethical hacking challenges, workshops, CTFs and sharing of knowledge.
+
 ## OWASP Suffolk Fight Club - January 2023 ##
 
 ### [24th January 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/290329408/)
