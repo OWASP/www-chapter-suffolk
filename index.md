@@ -32,21 +32,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
-
-## Thinking like a Hacker ##
-
-### [21st March 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291864159/)
-
-Location: virtual
-
-Over the past few years OWASP Suffolk has been bringing you free events to show you cyber security best practices. We discussed creating strong passwords, patching and backing up, OSINT, API Security, SCA and RASP, and many other subjects. In this event we hope to cement that knowledge by showing you the view from the other side of the fence.
-
-In this live interactive demonstration we will show you what a web target looks like from the perspective of an attacker. With the use of a vulnerable target that has not followed security best practices we will show you just how easy it is for an attacker to gain access to your computer, it's data and resources. With each step of the attack we will demonstrate techniques and tools while discussing what could of been done to mitigate each step of the attack.
-
-By thinking like a Hacker and seeing your "defences" from their point of view we hope to show you how important following cyber security best practices really is.
-
-Attendees of the OWASP Suffolk Fight Club events will be familiar with the format of this event, except that this will be scripted with interactive Q&A. The vulnerable target will be a virtual machine created for the purpose of learning.
-
 ## OWASP Suffolk Fight Club - April 2023 ##
 
 ### [11th April 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291864839/)
