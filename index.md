@@ -32,16 +32,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
-## OWASP Suffolk Fight Club - April 2023 ##
-
-### [11th April 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291864839/)
-
-Location: virtual
-
-No agenda, no slides, no recording, 100% unscripted.
-
-Practical learning: Live ethical hacking challenges, workshops, CTFs and sharing of knowledge.
-
 ## ZAP and Burp Walkthrough ##
 
 ### [25th April 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291848350/)
