@@ -32,18 +32,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
-## ZAP and Burp Walkthrough ##
-
-### [25th April 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291848350/)
-
-Location: virtual
-
-For the past two years I've been using OWASP ZAP and PortSwigger's Burp Suite (Community Edition), switching between the two as I learned hacking techniques and took part in CTFs. Each has their own pros and cons, features I like, quirks, and even room for improvement.
-
-For this event we will be taking a slow walk through the interfaces and features of both tools side-by-side with both pointed at a vulnerable target.
-
-This will be an interactive session where you can ask questions throughout. This event is aimed at the beginner who wishes to know more about these two popular tools. This is an unbiased demonstration and both tools will be in an out-of-the-box state with no optional extras / add-ons / plugins installed.
-
 ## OWASP Suffolk Fight Club - May 2023 ##
 
 ### [9th May 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291864867/)
