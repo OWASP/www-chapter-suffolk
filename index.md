@@ -32,9 +32,9 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
-## OWASP Suffolk Fight Club - May 2023 ##
+## OWASP Suffolk Fight Club - May Encore 2023 ##
 
-### [9th May 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291864867/)
+### [16th May 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/293452964/)
 
 Location: virtual
 
