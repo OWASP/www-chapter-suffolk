@@ -31,17 +31,6 @@ Please follow us on [Twitter](https://twitter.com/owaspsuffolk)  and please subs
 ## Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
-## Injection Vulnerabilities ##
-
-### [23rd May 2023 (Virtual event)](https://www.meetup.com/owasp-suffolk-chapter/events/291863605/)
-
-Location: virtual
-
-Injection vulnerabilities remain a common problem today. A single mistake could expose your whole database and customer data or give an attacker the ability to remotely execute code on your server.
-
-We will look at some examples of coding mistakes that can lead to injection vulnerabilities and discuss how they could be mitigated.
-
-This is a joint event provided by OWASP Bristol and OWASP Suffolk.
 
 ----
 
