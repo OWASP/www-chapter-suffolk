@@ -1,0 +1,31 @@
+community:
+  - name: chapter-suffolk
+    platform: slack
+    url: https://owasp.slack.com/archives/CEW6930J3
+    description: "OWASP Suffolk Chapter Channel\n\nJoin us on discord\n<https://discord.gg/wkEJc3fx>"
+currency: GBP
+leaders:
+  - name: Wojciech T Cichon
+    email: wojciech.cichon@owasp.org
+  - name: David Flint
+    email: david.flint@owasp.org
+  - name: Matt Brompton
+    email: matt.brompton@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Suffolk
+  latitude: 52.241001350000005
+  longitude: 1.0465716091328372
+meetup_group: OWASP-Suffolk-Chapter
+name: OWASP Suffolk
+repositories:
+  - name: www-chapter-suffolk
+    url: https://github.com/OWASP/www-chapter-suffolk
+    description: OWASP Foundation Web Repository
+tags:
+  - suffolk
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-suffolk
